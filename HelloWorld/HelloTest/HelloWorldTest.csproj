@@ -53,9 +53,10 @@
     <Compile Include="FakeDateTest.cs" />
     <Compile Include="FakeUser.cs" />
     <Compile Include="FakeUserTest.cs" />
-    <Compile Include="InitDateTest.cs" />
+    <Compile Include="RealDateTest.cs" />
     <Compile Include="MessageTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RealUserTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
