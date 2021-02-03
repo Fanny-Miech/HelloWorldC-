@@ -2,7 +2,7 @@
 using System;
 using HelloWorld;
 
-namespace HelloTest
+namespace HelloWorldTest
 {
     [TestClass]
     public class RealUserTest

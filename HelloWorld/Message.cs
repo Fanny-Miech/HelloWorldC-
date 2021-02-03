@@ -32,6 +32,7 @@ namespace HelloWorld
         {
         }
 
+        //constructor used for tests
         public Message(IUser user, IDate date, int hour1 = 9, int hour2 = 13, int hour3 = 18)
         {
             m_date = date;
