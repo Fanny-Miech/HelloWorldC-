@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld.csproj", "{458B3154-FA9D-4E7E-876F-F299C74ED5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldTest", "HelloTest\HelloWorldTest.csproj", "{88A81556-3AFF-4883-90ED-CEFF8C32BC8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{458B3154-FA9D-4E7E-876F-F299C74ED5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{458B3154-FA9D-4E7E-876F-F299C74ED5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{458B3154-FA9D-4E7E-876F-F299C74ED5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{458B3154-FA9D-4E7E-876F-F299C74ED5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A81556-3AFF-4883-90ED-CEFF8C32BC8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A81556-3AFF-4883-90ED-CEFF8C32BC8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A81556-3AFF-4883-90ED-CEFF8C32BC8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A81556-3AFF-4883-90ED-CEFF8C32BC8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F9A8A3-EBBE-44C0-9482-F52A7FE3FB24}
+	EndGlobalSection
+EndGlobal

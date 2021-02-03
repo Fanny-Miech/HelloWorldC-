@@ -1,0 +1,7 @@
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\fanou\Documents\2019-CampusNumérique\cours\modules\C#\HelloWorld\obj\Debug\HelloWorld.pdb
